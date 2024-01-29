@@ -1,0 +1,21 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "My first react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/vimal004/React-Project-1)"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Vimal Manoharan",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.90.0"
+  }
+}
